@@ -49,7 +49,7 @@ const Navbar = () => {
                 className="rounded-full object-cover"
               />
             </div>
-            <p className="text-base md:text-lg">Afroza Khan Rita</p>
+            <p className="text-base md:text-lg ms:text-black">Afroza Khan Rita</p>
           </div>
 
           {/* 🟦 Desktop Menu */}
