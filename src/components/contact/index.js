@@ -40,7 +40,7 @@ export default function Contact() {
     <>
       {/* 🏔️ Hero Section */}
       <section className="relative bg-cover bg-center min-h-[70vh] flex items-center bg-indigo-50">
-             <div className="mx-10 pl-20 md:mx-20 flex flex-col md:flex-row items-center  justify-between gap-12">
+             <div className="mx-10 md:pl-20 md:mx-20 flex flex-col md:flex-row items-center  justify-between gap-12">
 
         <div className="relative container mx-auto px-4 z-10 grid md:grid-cols-2 gap-10  justify-between items-center text-white">
           {/* Left Text */}

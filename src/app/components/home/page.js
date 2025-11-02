@@ -6,6 +6,8 @@ import Contact from "@/components/contact/index";
 import Footer from "@/components/footer";
 import Video from "@/components/video/index";
 import Blog from "@/components/blog/index"
+import Report from "@/components/report/index"
+
 
 
 
@@ -18,6 +20,7 @@ export default function HomePage (){
             <Contact/>
             <Video/>
             <Blog/>
+            <Report/>
             <Footer/>
          
 
